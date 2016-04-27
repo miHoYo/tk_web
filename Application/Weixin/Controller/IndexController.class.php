@@ -7,7 +7,7 @@ use Think\Controller;
 /**
  * 定义微信链接TOKEN
  */
-define("TOKEN", "xcoderstudio");
+define("TOKEN", "qazwsxedc");
  
 class IndexController extends Controller {
  
